@@ -312,12 +312,12 @@
         },
         "minigames": {
             "names": {
-                "boo-busters": "Trouve ce Boo",
-                "combo-stomper": "Allons Piétiner",
-                "survival-snake": "Survie Reptilienne",
-                "titlegrams": "Épeler",
+                "boo-busters": "Mais où est ce Boo ?",
+                "combo-stomper": "Piétinage frénétique",
+                "survival-snake": "Survie reptilienne",
+                "titlegrams": "Titragramme",
                 "shooting-stars": "Étoiles filantes",
-                "fruit-sorter": "Sorteur de Fruits"
+                "fruit-sorter": "Triage aux Fruits"
             },
             "labels": {
                 "pick-minigame": "CHOISIS UN MINI-JEU",
